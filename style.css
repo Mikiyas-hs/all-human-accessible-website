@@ -177,7 +177,7 @@ main article h1{
 
 main article strong{
     font-style: sans-serif;
-    color: red;
+    color: rgb(184, 43, 43);
     font-size: 0.8rem;
     position: absolute;
     top: 25%;
@@ -268,7 +268,7 @@ main button{
     box-shadow: none;
     border: none;
     color: rgb(155, 58, 58);
-    width: 175px;
+    width: 360px;
     padding: 14px 5px;
     font-size: 16px;
     cursor: pointer;
@@ -281,50 +281,50 @@ main button{
 
 .opslaan{
     display: inline-block;
-    background-color: rgba(133, 154, 162, 0.227);
+    background-color: rgb(113, 124, 129);
     box-shadow: none;
     border: none;
-    color: rgb(124, 114, 114);
-    width: 45px;
+    color: rgb(0, 0, 0);
+    width: 65px;
     padding: 14px 5px;
     font-size: 16px;
     cursor: pointer;
     text-align: center;
     border-radius: 3%;
     margin-top: 30px;
-    margin-left: 45px; 
+    margin-left: 15px; 
 }
 
 .verzenden{
     display: inline-block;
-    background-color: rgba(133, 154, 162, 0.227);
+    background-color: rgb(113, 124, 129);
     box-shadow: none;
     border: none;
-    color: rgb(124, 114, 114);
-    width: 45px;
+    color: rgb(0, 0, 0);
+    width: 85px;
     padding: 14px 5px;
     font-size: 16px;
     cursor: pointer;
     text-align: center;
     border-radius: 3%;
     margin-top: 30px;
-    margin-left: 2px; 
+    margin-left: 65px; 
 }
 
 .translate{
     display: inline-block;
-    background-color: rgba(133, 154, 162, 0.227);
+    background-color: rgb(113, 124, 129);
     box-shadow: none;
     border: none;
-    color: rgb(124, 114, 114);
-    width: 45px;
+    color: rgb(0, 0, 0);
+    width: 65px;
     padding: 14px 5px;
     font-size: 16px;
     cursor: pointer;
     text-align: center;
     border-radius: 3%;
     margin-top: 30px;
-    margin-left: 1px; 
+    margin-left: 75px; 
 }
 
 .tekst{
