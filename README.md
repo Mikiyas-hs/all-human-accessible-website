@@ -19,6 +19,7 @@ De instructie van deze leertaak staat in [INSTRUCTIONS](https://github.com/fdnd-
 in deze sprint heb ik de opdracht gekregen om mijn website die ik voor redpers had gemaakt toegankelijk te maken voor mensen en voor mensen met beperkingen. in de vorige sprint had ik geprobeerd om de website zo identiek mogelijk te maken ten opzichte van het design die we opgestuurd gekregen hadden dit keer heb ik een paar aanpassingen en betere technieken in mijn html toegepast om de toegankelijkheid van mijn website te verbeteren waardoor je dus goed kunt tabben door de site en bijv door te tabben en alleen het toetsenbord te gebruiken de hamburger menu kunt openen en sluiten en een screen reader kunt gebruiken die bepaalde dingen op je site kan voorlezen 
 
 <img src="/images/Schermafbeelding 2024-10-18 122520.png">
+<img src="/images/Schermafbeelding 2024-10-24 010600.png">
 
 https://mikiyas-hs.github.io/all-human-accessible-website/
 
