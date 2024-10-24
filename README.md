@@ -25,7 +25,20 @@ https://mikiyas-hs.github.io/all-human-accessible-website/
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+De html van mijn website is semantisch opgezet. hiervoor geef ik een overzicht van de belangrijkste dingen die voorkomen in mijn html
+<header>: in de header kan je het logo een hamburger-menu en de navigatie terug vinden
+<article>: in de article kun je bijv terug vinden wat de publicatiedatum is en het artikel word weergegeven
+<main>: de main bevat de belangrijkste inhoud van mijn pagina zoals de afbeelidng het artikel en de tekstgedeelte daarvan
 
+ik heb voor de toegankelijkheid van mijn website ook mijn html structuur veranderd zodat mijn code er overzichtelijker uit kon zien waardoor je beter kon tabben door de site en ik heb aanpassingen gemaakt in mijn code zoals het weghalen van mijn hr en dat stukje van de website gewoon te stijlen in css hierdoor werd mijn site iets semantischer en bijv lijn 30-31 heb ik al die codes aangepast en alle tekst in de a-tag gezet en ik heb bijv ook overal waar het nodig was mijn code aangepast na mijn site te laten runnen door lighthouse om de toegankelijkheid van mijn site te kunnen verbeteren ik heb ook een aantal buttons groter gemaakt omdat ik mijn site door een test had gehaald waarbij je kon zien hoe je website eruit ziet als je website bijv wazig is door dat te doen heb ik een kleine designing aanpassing gemaakt 
+
+mijn css bevat een aantal goede elementen zoals het gebruik van:
+@font-face: ik heb aangepaste lettertypes hiermee in kunnen laden met
+flexbox: De header maakt goed gebruik van flexbox om elementen zoals het logo en de menu-button correct te postioneren 
+mobile-first aanpak: ik heb de mobile first methode gebruikt wat inhoud dat ik eerst ben begonnen met het maken van de website voor op de telefoon 
+
+mijn css is niet helemaal goed en bevat ook een aantal verbeter punten waar rekening mee gehouden word
+posities: Er zijn veel elementen met position: absolute vooral binnen de artikelen en tekstgedeelten dit maakt het moeilijker om mijn ontwerp responsive te maken voor bijv een desktop 
 ## Bronnen
 
 ## Licentie
